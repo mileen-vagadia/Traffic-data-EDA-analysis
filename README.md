@@ -11,7 +11,7 @@ dataset: [Smart Traffic Management Dataset](https://www.kaggle.com/datasets/smmm
 ### what's in here
 
 ```
-traffic-eda/
+traffic-data-EDA-analysis/
 ├── data/
 │   └── raw/               # put the kaggle csv here
 ├── eda_logic.py       # main analysis
